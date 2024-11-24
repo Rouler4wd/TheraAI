@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'FreightBigProSemibold';
+	src: url(../../assets/fonts/FreightBigProSemibold-61ab179a004c89bedf5fecf0abaf65f4.eot) format('embedded-opentype'),
+	url(../../assets/fonts/FreightBigProSemibold-61ab179a004c89bedf5fecf0abaf65f4.eot) format('embedded-opentype'),
+	url(../../assets/fonts/FreightBigProSemibold-bd31c611b3c01a39d9315a466263ed63.woff2) format('woff2'),
+	url(../../assets/fonts/FreightBigProSemibold-2450579b3601ee397b5e3fd9106795d5.woff) format('woff'),
+	url(../../assets/fonts/FreightBigProSemibold-ba7c3a50c44fd1881b3e6114a8c706a0.ttf) format('truetype');
+	font-weight: 600;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'FreightBigProSemibold';
+	src: url(../../assets/fonts/FreightBigProSemibold-8e235cdd03a42482f14cab9aed13ffb5.eot) format('embedded-opentype'),
+	url(../../assets/fonts/FreightBigProSemibold-8e235cdd03a42482f14cab9aed13ffb5.eot) format('embedded-opentype'),
+	url(../../assets/fonts/FreightBigProSemibold-e400825216cdc3b6682530dde768cb42.woff2) format('woff2'),
+	url(../../assets/fonts/FreightBigProSemibold-d4e5300c7b2ca64fc84be1f2a96a8813.woff) format('woff'),
+	url(../../assets/fonts/FreightBigProSemibold-2f353ee38bc89741a3a8c2aee815f6e5.ttf) format('truetype');
+	font-weight: 600;
+	font-style: italic;
+	font-display: auto;
+}

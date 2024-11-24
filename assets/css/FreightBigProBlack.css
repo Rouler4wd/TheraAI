@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'FreightBigProBlack';
+	src: url(../../assets/fonts/FreightBigProBlack-4e776f0a9fc05d4564c910e298d6ac02.eot) format('embedded-opentype'),
+	url(../../assets/fonts/FreightBigProBlack-4e776f0a9fc05d4564c910e298d6ac02.eot) format('embedded-opentype'),
+	url(../../assets/fonts/FreightBigProBlack-19787380cccb4e8196b034bf07511ecd.woff2) format('woff2'),
+	url(../../assets/fonts/FreightBigProBlack-8729848e0768d362f1729c7d909ddf14.woff) format('woff'),
+	url(../../assets/fonts/FreightBigProBlack-55e6bd6b36169cfb710ae07d60904f5c.ttf) format('truetype');
+	font-weight: 900;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'FreightBigProBlack';
+	src: url(../../assets/fonts/FreightBigProBlack-cecc5d8d348b6b27fe835c4d7c3db2ab.eot) format('embedded-opentype'),
+	url(../../assets/fonts/FreightBigProBlack-cecc5d8d348b6b27fe835c4d7c3db2ab.eot) format('embedded-opentype'),
+	url(../../assets/fonts/FreightBigProBlack-2a499826565793c4ac2aa1448fd49718.woff2) format('woff2'),
+	url(../../assets/fonts/FreightBigProBlack-bfab585f9738fdb818d389211e761548.woff) format('woff'),
+	url(../../assets/fonts/FreightBigProBlack-12d272e4c3a9820fd9103869923c1d16.ttf) format('truetype');
+	font-weight: 900;
+	font-style: italic;
+	font-display: auto;
+}

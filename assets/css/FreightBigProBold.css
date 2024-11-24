@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'FreightBigProBold';
+	src: url(../../assets/fonts/FreightBigProBold-179b09eb7cab86583538f66d070c05f7.eot) format('embedded-opentype'),
+	url(../../assets/fonts/FreightBigProBold-179b09eb7cab86583538f66d070c05f7.eot) format('embedded-opentype'),
+	url(../../assets/fonts/FreightBigProBold-6555209343491c484a1b430ed7814905.woff2) format('woff2'),
+	url(../../assets/fonts/FreightBigProBold-75d86f260438e8207847aa1289c46bdb.woff) format('woff'),
+	url(../../assets/fonts/FreightBigProBold-bde6aa817ce32fe45fc1006bf8eac103.ttf) format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'FreightBigProBold';
+	src: url(../../assets/fonts/FreightBigProBold-90be7d644e26039771e6a479e78d8b88.eot) format('embedded-opentype'),
+	url(../../assets/fonts/FreightBigProBold-90be7d644e26039771e6a479e78d8b88.eot) format('embedded-opentype'),
+	url(../../assets/fonts/FreightBigProBold-32f6f51c9ca8d5d76a718178b25edef6.woff2) format('woff2'),
+	url(../../assets/fonts/FreightBigProBold-37205f84ffdd0085c0e47f42fbfcf3df.woff) format('woff'),
+	url(../../assets/fonts/FreightBigProBold-01178e46bb783a0dae6efbb24b422835.ttf) format('truetype');
+	font-weight: bold;
+	font-style: italic;
+	font-display: auto;
+}
